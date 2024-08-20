@@ -5,3 +5,35 @@ body{
     text-align: center;
     font-family: "Merriweather", serif;
 }
+
+h1{
+    color:#66bfbf;
+    font-size: 5.625rem;
+    font-family: "Sacramento", cursive;
+}
+.top-logo{
+    position: absolute;
+    right: 650px;
+    top:25px;
+    
+    
+}
+h2{
+    color:#66bfbf;
+    font-family: "Montserrat", sans-serif;
+    font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+.QA{
+    
+    color:blue
+}
+.bottom_logo{
+    position: absolute;
+    left: 350px;
+    bottom:625px;
+    
+ 
+
+}
